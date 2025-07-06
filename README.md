@@ -63,7 +63,7 @@ It focuses on understanding database schema design, SQL joins, grouping, ranking
 
 ## 📷 Entity Relationship Diagram (ERD)
 
-<img src="doc/library_er_diagram_git_ready.png" alt="Library ER Diagram" width="800"/>
+<img src="doc/ER_Diagram.png" alt="Library ER Diagram" width="800"/>
 
 ---
 
@@ -131,9 +131,9 @@ GROUP BY lb.BranchName;
 
 | | |
 |---|---|
-| **Name** | _Your Name_ |
-| **GitHub** | [@yourhandle](https://github.com/yourhandle) |
-| **Email** | you@example.com |
+| **Name** | _Rohith Maddikunta_ |
+| **GitHub** | [@yourhandle](https://github.com/Rohithhh16) |
+| **Email** | rohithmaddikunta@gmail.com |
 
 ---
 
