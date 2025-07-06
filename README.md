@@ -63,7 +63,7 @@ It focuses on understanding database schema design, SQL joins, grouping, ranking
 
 ## 📷 Entity Relationship Diagram (ERD)
 
-<img src="doc/er_diagram.png" alt="Library ER Diagram" width="800"/>
+<img src="Doc/ER_Diagram.png" alt="Library ER Diagram" width="800"/>
 
 ---
 
